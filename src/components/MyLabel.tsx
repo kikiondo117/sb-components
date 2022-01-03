@@ -45,3 +45,5 @@ export function MyLabel({
     </span>
   );
 }
+
+export default MyLabel;
